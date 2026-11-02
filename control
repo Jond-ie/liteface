@@ -1,11 +1,11 @@
 Package: com.johndie.liteface
 Name: LiteFace
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
-Description: Every Face ID prompt uses iOS 18's small Face ID animation at the top of the screen (the one hidden apps use) instead of the box in the middle. iOS 18, Face ID iPhones. No settings.
-Maintainer: John d_ie
-Author: John d_ie
+Description: Every Face ID prompt uses iOS 18's small Face ID animation at the top of the screen (the one hidden apps use) instead of the box in the middle. iOS 18 to 27, Face ID iPhones. No settings.
+Maintainer: Jond-ie
+Author: Jond-ie
 Section: Tweaks
-Depends: ellekit, firmware (>= 18.0), firmware (<< 19.0)
+Depends: ellekit, firmware (>= 18.0), firmware (<< 28.0)
 Depiction: https://jond-ie.github.io/repo/depictions/com.johndie.liteface.html
 SileoDepiction: https://jond-ie.github.io/repo/depictions/com.johndie.liteface.json
