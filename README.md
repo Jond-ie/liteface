@@ -6,7 +6,7 @@ Every Face ID prompt uses iOS 18's small Face ID animation at the top of the scr
 - **Face ID iPhones** (iPhone XS / XR and newer). On Touch ID devices it does nothing.
 - arm64 and arm64e
 
-Install from the [pwnapple repo](https://jond-ie.github.io/repo/).
+Install from the [Jond_ie repo](https://jond-ie.github.io/repo/).
 
 ## How it works
 
